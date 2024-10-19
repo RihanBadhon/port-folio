@@ -25,7 +25,7 @@ Feel free to reach out if you’d like to connect or collaborate on projects!
 - **GitHub:** [https://github.com/RihanBadhon]
 
 ### Demo 
-Click [here]"https://rihanbadhon.github.io/port-folio/" for live demo
+Click [here](https://rihanbadhon.github.io/port-folio/) for live demo
 ---
 
 Thank you for visiting my README!
