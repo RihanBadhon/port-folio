@@ -8,7 +8,7 @@ html {
 body {
     color: #333;
     background-color: #f4f4f4; 
-    background-image: url(/src/img/portfolio\ background\ image.jpg); 
+    background-image: url(../img/portfolio\ background\ image.jpg); 
     background-size: cover;
     background-position: center;
 }
@@ -175,8 +175,11 @@ nav ul {
 }
 ul li {
     text-decoration: none;
+    text-align: center;
 
-
+nav {
+    text-align: center;
+}
 
 }
 
